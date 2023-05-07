@@ -1,0 +1,1 @@
+Here's a list of special commands that you can use: \n\t?help: prints this help menu; \n\tIf you ever want to start a regex with '?', use '\?'.
