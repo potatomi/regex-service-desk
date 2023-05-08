@@ -4,7 +4,7 @@
 // !prompt-name: this is where you enter the contents of the prompt.
 
 // printed when the program starts up
-!init-greeting: Hello! I'm Totomi's regex bot! I make regular expressions!
+!init-greeting: Hello! I'm Totomi's regex service desk! I make regular expressions!
 
 // help menu
 !help: Here's a list of special commands that you can use: \n\t?help: prints this help menu; \n\tIf you ever want to start a regex with '?', use '\?'.
