@@ -1,0 +1,32 @@
+# compiled stuff
+*.exe
+*.out
+*.class
+*.o
+# packed stuff
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# too big to pack
+# and my .md exports
+*.pdf
+
+# folders
+# /.vscode/**
+# /.idea/**
+# /.ipynb_checkpoints/**
+# /SE_repos/**
+/__wip__hw__/**
+
+!*.txt
+!*.md
+!*.R 
+!*.csv
+
+!/**/
