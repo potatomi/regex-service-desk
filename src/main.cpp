@@ -148,6 +148,7 @@ string makeRegex()
 
 void testRegex(string pattern)
 {
+    cin.ignore();
     cout << "You're currently testing: \\" << pattern << "\\" << endl;
     cout << "Enter the string you want to test" << endl;
     printQuitInstructions();
